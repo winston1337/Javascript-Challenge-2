@@ -37,9 +37,9 @@ const month = (n)=>{
     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     return months[n-1]
 }
-console.log(month(30))
+console.log(month(5))
 
-
+//Challenge 4
 
 const Tom = {
     height: 9,
